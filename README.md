@@ -1,2 +1,2 @@
 # NewProject
-Testing a new project
+Testing my first New Project
