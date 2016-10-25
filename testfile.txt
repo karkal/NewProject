@@ -1,7 +1,13 @@
+
 file to check merging of details.let us see how the merging works
 
 best of luck
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 0e853e81e40003038ff62c069eb3697dc7c1b5bc
 nice day
 =======
 
